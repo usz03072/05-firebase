@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590425692778",
+    "firebase_url": "https://skhu-app-yoon.firebaseio.com",
+    "project_id": "skhu-app-yoon",
+    "storage_bucket": "skhu-app-yoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590425692778:android:dd3b0a6da84b8fd3084813",
+        "android_client_info": {
+          "package_name": "net.skhu.e04firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590425692778-u5opv6hdf1tguhd25nglrn7nk5brk3rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8r50DCuw3O9Xl2wh8z9x62m2680vBxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590425692778-u5opv6hdf1tguhd25nglrn7nk5brk3rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
